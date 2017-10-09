@@ -1,7 +1,6 @@
 ## Overview
 
-This folder contains sub-folders of the various implementations of catalogs that are active in the world. Each sub-folder should
-have a swagger document of its latest implementation (yaml or json are both fine), as well as one or more documents discussing
+This folder contains sub-folders of the various implementations of notificiations that are active in the world. Each sub-folder should have a swagger document of its latest implementation (yaml or json are both fine), as well as one or more documents discussing
 what the API handles and what choices were made in creating it.
 
 To add an implementation create a new folder with the swagger and overview documents, and add it to the 'In Collaboration' list
