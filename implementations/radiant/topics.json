@@ -1,0 +1,16 @@
+{
+  "topics": [
+    {
+      "id": "some UUID or unique ID",
+      "name": "topic name",
+      "description": "topic description",
+      "endpoint": "<some url to endpoint>"
+    },
+    {
+      "id": "some UUID or unique ID",
+      "name": "topic name two",
+      "description": "topic description",
+      "endpoint": "<some url to endpoint>"
+    }
+  ]
+}
