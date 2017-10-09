@@ -1,0 +1,18 @@
+{
+  "subscriptions": [
+    {
+      "id": "some subscribe id",
+      "topic_id": "some topic id",
+      "pushConfig": {
+        "pushEndpoint": "https://myproject.url.com/myhandler"
+      }
+    },
+    {
+      "id": "some subscribe id",
+      "topic_id": "some topic id",
+      "pushConfig": {
+        "pushEndpoint": "https://myproject.url.com/myhandler2"
+      }
+    }
+  ]
+}
