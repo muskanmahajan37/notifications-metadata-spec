@@ -2,8 +2,14 @@
   "message": {
       "id": "message id",
       "key": "value / slug",
-      "lat": "latitude",
-      "long": "longitude",
+      "geometry": {
+        "type": "Point",
+          "coordinates": [
+            -149.9849,
+            61.4624,
+            46.7
+          ]
+      },
       "provider": "provider name",
       "provider_id": "provider id or hash",
       "system": "system name",
